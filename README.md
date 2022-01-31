@@ -1,17 +1,17 @@
-#Kattis Solutions
+<h1>Kattis Solutions</h1>
 
 by Oskar Herdenberg
-```
-Disclaimer:
-Problems are solved by me, and me alone.
-No documentary is recorded and earlier problems might be ignoring coding standards.
-This should be a demonstration of how my problem solving and coding is improving during my school years.
 
-I choose to leave the problems as they are, both how the problem is solved and how I wrote it, as a reminder to myself to keep on practicing and improving.
+>Disclaimer:
+>Problems are solved by me, and me alone.
+>No documentary is recorded and earlier problems might be ignoring coding standards.
+>This should be a demonstration of how my problem solving and coding is improving during my school years.
+>
+>I choose to leave the problems as they are, both how the problem is solved and how I wrote it, as a reminder to myself to keep on practicing and improving.
+>
+>Enjoy!
 
-Enjoy!
-```
-##Problems
+<H2>Problems</H2>
 
 | Problem                                                                                                                                         | Language |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|---------|
