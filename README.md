@@ -12,7 +12,6 @@ I choose to leave the problems as they are, both how the problem is solved and h
 Enjoy!
 ```
 ##Problems
-[Link to Google](https://www.google.com)
 
 | Problem                                                                                                                                         | Language |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|---------|
