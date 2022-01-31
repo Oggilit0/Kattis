@@ -16,30 +16,30 @@ by Oskar Herdenberg
 | Problem                                                                                                                                         | Language |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | [Aaah](src/Aaah.java) ( [Kattis](https://open.kattis.com/problems/aaah) )                                  | Java    |
-| [Astrological Sign](https://github.com/Oggilit0/Kattis/blob/main/src/AstrologicalSign.java) ( [Kattis](https://open.kattis.com/problems/astrologicalsign) ) | Java    |
-| [Bacon, Eggs, and Spam](https://github.com/Oggilit0/Kattis/blob/main/src/BaconEggsSpam.java) ( [Kattis](https://open.kattis.com/problems/baconeggsandspam) )        | Java    |
-| [Building Pyramids](https://github.com/Oggilit0/Kattis/blob/main/src/BuildingPyramids.java) ( [Kattis](https://open.kattis.com/problems/pyramids) )         | Java    |
-| [Datum](https://github.com/Oggilit0/Kattis/blob/main/src/Datum.java) ( [Kattis](https://open.kattis.com/problems/datum) )                                | Java    |
-| [Drinking Song](https://github.com/Oggilit0/Kattis/blob/main/src/DrinkingSong.java) ( [Kattis](https://open.kattis.com/problems/drinkingsong) )                         | Java    |
-| [Echo Echo Echo](https://github.com/Oggilit0/Kattis/blob/main/src/EchoEchoEcho.java) ( [Kattis](https://open.kattis.com/problems/echoechoecho) )                        | Java    |
-| [Electrical Outlets](https://github.com/Oggilit0/Kattis/blob/main/src/ElectricalOutlets.java) ( [Kattis](https://open.kattis.com/problems/electricaloutlets) )                    | Java    |
-| [Hangman](https://github.com/Oggilit0/Kattis/blob/main/src/Hangman.java) ( [Kattis](https://open.kattis.com/problems/hangman) )                               | Java    |
-| [Heart Rate](https://github.com/Oggilit0/Kattis/blob/main/src/HeartRate.java) ( [Kattis](https://open.kattis.com/problems/heartrate) )                            | Java    |
-| [Laptop Sticker](https://github.com/Oggilit0/Kattis/blob/main/src/LaptopSticker.java) ( [Kattis](https://open.kattis.com/problems/laptopsticker) )                        | Java    |
-| [No Duplicates](https://github.com/Oggilit0/Kattis/blob/main/src/NoDuplicates.java) ( [Kattis](https://open.kattis.com/problems/nodup) )                         | Java    |
-| [Odd Echo](https://github.com/Oggilit0/Kattis/blob/main/src/OddEcho.java) ( [Kattis](https://open.kattis.com/problems/oddecho) )                              | Java    |
-| [One Chicken Per Person!](https://github.com/Oggilit0/Kattis/blob/main/src/OneChickenPerPerson.java) ( [Kattis](https://open.kattis.com/problems/onechicken) )               | Java    |
-| [Pet](https://github.com/Oggilit0/Kattis/blob/main/src/Pet.java) ( [Kattis](https://open.kattis.com/problems/pet) )                                   | Java    |
-| [Rating Problems](https://github.com/Oggilit0/Kattis/blob/main/src/RatingProblems.java) ( [Kattis](https://open.kattis.com/problems/ratingproblems) )                       | Java    |
-| [Reverse Rot](https://github.com/Oggilit0/Kattis/blob/main/src/ReverseRot.java) ( [Kattis](https://open.kattis.com/problems/reverserot) )                           | Java    |
-| [Secret Message](https://github.com/Oggilit0/Kattis/blob/main/src/SecretMessage.java) ( [Kattis](https://open.kattis.com/problems/secretmessage) )                        | Java    |
-| [Simon Says](https://github.com/Oggilit0/Kattis/blob/main/src/SimonSays.java) ( [Kattis](https://open.kattis.com/problems/simonsays) )                            | Java    |
-| [Simple Addition](https://github.com/Oggilit0/Kattis/blob/main/src/SimpleAddition.java) ( [Kattis](https://open.kattis.com/problems/simpleaddition) )                       | Java    |
-| [Sort Two Numbers](https://github.com/Oggilit0/Kattis/blob/main/src/SortTwoNumbers.java) ( [Kattis](https://open.kattis.com/problems/sorttwonumbers) )                      | Java    |
-| [Spelling Bee](https://github.com/Oggilit0/Kattis/blob/main/src/SpellingBee.java) ( [Kattis](https://open.kattis.com/problems/spellingbee) )                          | Java    |
-| [Stuck In A Time Loop](https://github.com/Oggilit0/Kattis/blob/main/src/StuckInATimeLoop.java) ( [Kattis](https://open.kattis.com/problems/timeloop) )                  | Java    |
-| [Take Two Stones](https://github.com/Oggilit0/Kattis/blob/main/src/TakeTwoStones.java) ( [Kattis](https://open.kattis.com/problems/twostones) )                       | Java    |
-| [Tarifa](https://github.com/Oggilit0/Kattis/blob/main/src/Tarifa.java) ( [Kattis](https://open.kattis.com/problems/tarifa) )                                | Java    |
-| [The Key to Cryptography](https://github.com/Oggilit0/Kattis/blob/main/src/TheKeyToCryptography.java) ( [Kattis](https://open.kattis.com/problems/keytocrypto) )               | Java    |
-| [Two-sum](https://github.com/Oggilit0/Kattis/blob/main/src/TwoSum.java) ( [Kattis](https://open.kattis.com/problems/twosum) )                               | Java    |
+| [Astrological Sign](src/AstrologicalSign.java) ( [Kattis](https://open.kattis.com/problems/astrologicalsign) ) | Java    |
+| [Bacon, Eggs, and Spam](src/BaconEggsSpam.java) ( [Kattis](https://open.kattis.com/problems/baconeggsandspam) )        | Java    |
+| [Building Pyramids](src/BuildingPyramids.java) ( [Kattis](https://open.kattis.com/problems/pyramids) )         | Java    |
+| [Datum](src/Datum.java) ( [Kattis](https://open.kattis.com/problems/datum) )                                | Java    |
+| [Drinking Song](src/DrinkingSong.java) ( [Kattis](https://open.kattis.com/problems/drinkingsong) )                         | Java    |
+| [Echo Echo Echo](src/EchoEchoEcho.java) ( [Kattis](https://open.kattis.com/problems/echoechoecho) )                        | Java    |
+| [Electrical Outlets](src/ElectricalOutlets.java) ( [Kattis](https://open.kattis.com/problems/electricaloutlets) )                    | Java    |
+| [Hangman](src/Hangman.java) ( [Kattis](https://open.kattis.com/problems/hangman) )                               | Java    |
+| [Heart Rate](src/HeartRate.java) ( [Kattis](https://open.kattis.com/problems/heartrate) )                            | Java    |
+| [Laptop Sticker](src/LaptopSticker.java) ( [Kattis](https://open.kattis.com/problems/laptopsticker) )                        | Java    |
+| [No Duplicates](src/NoDuplicates.java) ( [Kattis](https://open.kattis.com/problems/nodup) )                         | Java    |
+| [Odd Echo](src/OddEcho.java) ( [Kattis](https://open.kattis.com/problems/oddecho) )                              | Java    |
+| [One Chicken Per Person!](src/OneChickenPerPerson.java) ( [Kattis](https://open.kattis.com/problems/onechicken) )               | Java    |
+| [Pet](src/Pet.java) ( [Kattis](https://open.kattis.com/problems/pet) )                                   | Java    |
+| [Rating Problems](src/RatingProblems.java) ( [Kattis](https://open.kattis.com/problems/ratingproblems) )                       | Java    |
+| [Reverse Rot](src/ReverseRot.java) ( [Kattis](https://open.kattis.com/problems/reverserot) )                           | Java    |
+| [Secret Message](src/SecretMessage.java) ( [Kattis](https://open.kattis.com/problems/secretmessage) )                        | Java    |
+| [Simon Says](src/SimonSays.java) ( [Kattis](https://open.kattis.com/problems/simonsays) )                            | Java    |
+| [Simple Addition](src/SimpleAddition.java) ( [Kattis](https://open.kattis.com/problems/simpleaddition) )                       | Java    |
+| [Sort Two Numbers](src/SortTwoNumbers.java) ( [Kattis](https://open.kattis.com/problems/sorttwonumbers) )                      | Java    |
+| [Spelling Bee](src/SpellingBee.java) ( [Kattis](https://open.kattis.com/problems/spellingbee) )                          | Java    |
+| [Stuck In A Time Loop](src/StuckInATimeLoop.java) ( [Kattis](https://open.kattis.com/problems/timeloop) )                  | Java    |
+| [Take Two Stones](src/TakeTwoStones.java) ( [Kattis](https://open.kattis.com/problems/twostones) )                       | Java    |
+| [Tarifa](src/Tarifa.java) ( [Kattis](https://open.kattis.com/problems/tarifa) )                                | Java    |
+| [The Key to Cryptography](src/TheKeyToCryptography.java) ( [Kattis](https://open.kattis.com/problems/keytocrypto) )               | Java    |
+| [Two-sum](src/TwoSum.java) ( [Kattis](https://open.kattis.com/problems/twosum) )                               | Java    |
 
