@@ -15,7 +15,7 @@ by Oskar Herdenberg
 
 | Problem                                                                                                                                         | Language |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| [Aaah](https://github.com/Oggilit0/Kattis/blob/main/src/Aaah.java) ( [Kattis](https://open.kattis.com/problems/aaah) )                                  | Java    |
+| [Aaah](src/Aaah.java) ( [Kattis](https://open.kattis.com/problems/aaah) )                                  | Java    |
 | [Astrological Sign](https://github.com/Oggilit0/Kattis/blob/main/src/AstrologicalSign.java) ( [Kattis](https://open.kattis.com/problems/astrologicalsign) ) | Java    |
 | [Bacon, Eggs, and Spam](https://github.com/Oggilit0/Kattis/blob/main/src/BaconEggsSpam.java) ( [Kattis](https://open.kattis.com/problems/baconeggsandspam) )        | Java    |
 | [Building Pyramids](https://github.com/Oggilit0/Kattis/blob/main/src/BuildingPyramids.java) ( [Kattis](https://open.kattis.com/problems/pyramids) )         | Java    |
