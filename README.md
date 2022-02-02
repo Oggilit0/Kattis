@@ -41,5 +41,6 @@ by Oskar Herdenberg
 | [Take Two Stones](src/TakeTwoStones.java) ( [Kattis](https://open.kattis.com/problems/twostones) )                       | Java    |
 | [Tarifa](src/Tarifa.java) ( [Kattis](https://open.kattis.com/problems/tarifa) )                                | Java    |
 | [The Key to Cryptography](src/TheKeyToCryptography.java) ( [Kattis](https://open.kattis.com/problems/keytocrypto) )               | Java    |
+| [Tripple Texting](src/TripleTexting.java) ( [Kattis](https://open.kattis.com/problems/tripletexting) )               | Java    |
 | [Two-sum](src/TwoSum.java) ( [Kattis](https://open.kattis.com/problems/twosum) )                               | Java    |
 
