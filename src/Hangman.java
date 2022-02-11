@@ -1,5 +1,3 @@
-package Kattis;
-
 import java.util.Scanner;
 
 public class Hangman {
