@@ -45,5 +45,5 @@ by Oskar Herdenberg
 | [Tri](src/Tri.java) ( [Kattis](https://open.kattis.com/problems/tri) )                                              | Java    |
 | [Tripple Texting](src/TripleTexting.java) ( [Kattis](https://open.kattis.com/problems/tripletexting) )              | Java    |
 | [Two-sum](src/TwoSum.java) ( [Kattis](https://open.kattis.com/problems/twosum) )                                    | Java    |
-| [Ying and Yang Stones](src/Yintangstones.java) ( [Kattis](https://open.kattis.com/problems/yinyangstones) )                | Java    |
+| [Ying and Yang Stones](src/Yinyangstones.java) ( [Kattis](https://open.kattis.com/problems/yinyangstones) )         | Java    |
 
