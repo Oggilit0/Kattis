@@ -27,9 +27,10 @@ by Oskar Herdenberg
 | [Electrical Outlets](src/ElectricalOutlets.java) ( [Kattis](https://open.kattis.com/problems/electricaloutlets) )             | Java    |
 | [Hangman](src/Hangman.java) ( [Kattis](https://open.kattis.com/problems/hangman) )                                            | Java    |
 | [Heart Rate](src/HeartRate.java) ( [Kattis](https://open.kattis.com/problems/heartrate) )                                     | Java    |
-| [Job Expenses](src/JobExpenses.java) ( [Kattis](https://open.kattis.com/problems/jobexpenses) )                                 | Java    |
+| [Job Expenses](src/JobExpenses.java) ( [Kattis](https://open.kattis.com/problems/jobexpenses) )                               | Java    |
 | [Laptop Sticker](src/LaptopSticker.java) ( [Kattis](https://open.kattis.com/problems/laptopsticker) )                         | Java    |
 | [Nasty Hacks](src/NastyHacks.java) ( [Kattis](https://open.kattis.com/problems/nastyhacks) )                                  | Java    |
+| [Number Fun](src/NumberFun.java) ( [Kattis](https://open.kattis.com/problems/numberfun) )                                    | Java    |
 | [No Duplicates](src/NoDuplicates.java) ( [Kattis](https://open.kattis.com/problems/nodup) )                                   | Java    |
 | [Odd Echo](src/OddEcho.java) ( [Kattis](https://open.kattis.com/problems/oddecho) )                                           | Java    |
 | [One Chicken Per Person!](src/OneChickenPerPerson.java) ( [Kattis](https://open.kattis.com/problems/onechicken) )             | Java    |
